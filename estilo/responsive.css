@@ -1,0 +1,8 @@
+
+
+@media (max-width: 400px)
+{
+    #section1, #section2, #section3, #section4, #section5{
+        visibility: visible;
+    }
+}
